@@ -26,6 +26,6 @@ Talk to me about:
 </p>
 
 
-📃[Portfolio](https://lihuang-zheng.github.io/) by L.Zheng
+📃[Portfolio](https://lihuang-zheng.github.io/) by L. Zheng
 
-📑[Resume](https://en.wikipedia.org/wiki/HTTP_404) by L.Zheng
+📑[Resume](https://en.wikipedia.org/wiki/HTTP_404) by L. Zheng
