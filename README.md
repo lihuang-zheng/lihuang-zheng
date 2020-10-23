@@ -21,7 +21,6 @@ Talk to me about:
 
 **Connect with me:**
 <p align="left">
-  <a href="https://twitter.com/lihuangzn" target="blank"><img src="https://img.icons8.com/cotton/64/000000/twitter.png" alt="twitter" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/lihuang-zheng/" target="blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkedin" height="40" width="40" /></a>
 </p>
 
